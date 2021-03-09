@@ -19,6 +19,17 @@ section {
     grid-template-columns: 1fr 4fr;
     grid-gap:3px
 }
+form{
+    padding: 10px;
+    
+}
+.elrejt{
+    display: none;
+}
+
+
+
+
 section p {
    padding:0;
    margin:0;
